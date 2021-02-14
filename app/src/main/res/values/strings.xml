@@ -1,17 +1,17 @@
 <resources>
-    <string name="app_name">Android restaurant</string>
-    <string name="hello">Bienvenue\nchez</string>
+    <string name="app_name">Resto Cuisto </string>
+    <string name="hello">Welcome to \n </string>
 
-    <string name="starter">Entrées</string>
-    <string name="main">Plats</string>
-    <string name="dessert">Désserts</string>
+    <string name="starter">Carte Entrées</string>
+    <string name="main">Carte des plats</string>
+    <string name="dessert"> Carte des désserts</string>
 
     <string name="toast_content">Contenu du toast</string>
 
-    <string name="total">Total</string>
+    <string name="total">Total de la commande </string>
     <string name="basket_validation">Votre plat a bien été ajouté au panier</string>
     <string name="basket">Panier</string>
-    <string name="order">Passer commande</string>
+    <string name="order">Finaliser la commande</string>
     <string name="quantity">Quantité :</string>
 
     <string name="registrationTitle">Création de votre compte</string>
